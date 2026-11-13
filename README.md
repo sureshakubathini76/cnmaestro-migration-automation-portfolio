@@ -34,7 +34,6 @@ The focus was not only on automation speed, but on **production safety, dependen
 - ePSK and MAC-authentication related configuration
 - Switching and port configuration restore
 - Device onboarding and controller/cloud synchronization
-- AAA / NAC concepts from Cisco ISE experience
 - Controller-based and cloud-managed networking concepts
 
 ## Technologies Used
